@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MX_Alps_Hybrid-master)(type KiCad)(uri C:/Users/ehong/Downloads/MX_Alps_Hybrid-master)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/ehong/Downloads/random-keyboard-parts.pretty-master)(options "")(descr ""))
+)

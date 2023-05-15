@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri C:/Users/ehong/Downloads/MX_Alps_Hybrid-master/New_Library.lib)(options "")(descr ""))
+  (lib (name New_Library_0)(type Legacy)(uri C:/Users/ehong/Downloads/random-keyboard-parts.pretty-master/New_Library_0.lib)(options "")(descr ""))
+)
