@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name MX_Alps_Hybrid-master)(type KiCad)(uri C:/Users/ehong/Downloads/MX_Alps_Hybrid-master)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/ehong/Downloads/random-keyboard-parts.pretty-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri C:/Users/ehong/Documents/GitHub/keyboardpcb60-/MX_Alps_Hybrid/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/ehong/Documents/GitHub/keyboardpcb60-/random-keyboard-parts.pretty)(options "")(descr ""))
 )
